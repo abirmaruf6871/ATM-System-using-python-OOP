@@ -1,0 +1,11 @@
+
+------------------------------
+        ATM RECEIPT
+------------------------------
+Card Number   : 1234567890
+Transaction   : Withdraw
+Amount        : 3500
+Date & Time   : 2025-12-31 14:48:53
+Available Bal : 21500
+------------------------------
+Thank you for using our ATM
